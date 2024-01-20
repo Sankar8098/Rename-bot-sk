@@ -12,7 +12,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "SK_MoviesOffl")
 
 DB_NAME = os.environ.get("DB_NAME","SK_MoviesOffl")     
 
-DB_URL = os.environ.get("DB_URL","mongodb+srv://admin:admin@nodejs.plqdxdk.mongodb.net/Homeserviceproject?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://sankar:sankar@sankar.lldcdsx.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
