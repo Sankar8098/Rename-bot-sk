@@ -6,7 +6,7 @@ API_ID = os.environ.get("API_ID", "23990433")
 
 API_HASH = os.environ.get("API_HASH", "e6c4b6ee1933711bc4da9d7d17e1eb20")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5964494060:AAFfOEerT8lR8YqyEHJQtbFQidqkqkYUaO8") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5992501587:AAHdDLpHnleGcpCQUizT1efHLhDNYUrtuYA") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "SK_MoviesOffl") 
 
